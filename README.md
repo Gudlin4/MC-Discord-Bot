@@ -29,7 +29,7 @@ Do you like my project? Click on the star button (⭐️) right above your scree
     "token": "Your Discord bot token here",
     "ipCommandMessage": "The message that will be sent after the command ip is executed.",
     "applyCommandMessage": "The message that will be sent after the command apply is executed.",
-    "activity": [ "example.com" ],
+    "activity": [ "Status of the bot 1", "Status of the bot 2" ],
     "prefix": "!"
 }
 ```
