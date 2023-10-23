@@ -45,4 +45,4 @@ npm install discord.js fs
 8. Enjoy. ;)
 
 ## License
-[**GPL-3.0**](./LICENSE), General Public License v3
+[**GNU-3.0**](./LICENSE), General Public License v3
