@@ -23,6 +23,8 @@ Do you like my project? Click on the star button (⭐️) right above your scree
 3. Extract the .zip file into a normal folder.
 4. Open VSCode, click on **Open Folder**, and select the new created folder.
 5. Fill all the required values in `config.json`.
+   Use **\n** to start a new line!
+   For example "Join today on: yourip.com**\n**Port: yourport"
 
 ```apache
 {
