@@ -8,7 +8,7 @@ Do you like my project? Click on the star button (⭐️) right above your scree
 ## Features
 - IP Command
 - Apply Command
-- More features will come as I update the bot!
+- Next feature at **2** stars
 
 ## Requirements
 ### Packages:
