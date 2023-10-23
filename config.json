@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "ipCommandMessage": "Join us today on: `example.com`\nPort: `xxxxx`",
+    "applyCommandMessage": "`Staff Application:`\nexample.com\n`Media Application:`\nexample.com",
+    "activity": [ "example.com" ],
+    "prefix": "!"
+}
