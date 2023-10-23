@@ -23,14 +23,12 @@ Do you like my project? Click on the star button (⭐️) right above your scree
 3. Extract the .zip file into a normal folder.
 4. Open VSCode, click on **Open Folder**, and select the new created folder.
 5. Fill all the required values in `config.json`.
-   Use **\n** to start a new line!
-   For example "Join today on: yourip.com**\n**Port: yourport"
 
 ```apache
 {
-    "token": "Your Discord bot token here",
-    "ipCommandMessage": "The message that will be sent after the command ip is executed.",
-    "applyCommandMessage": "The message that will be sent after the command apply is executed.",
+    "token": "your_bot_token_here",
+    "ipCommandMessage": "Join today on: `yourip.com`\nPort: `yourport`",
+    "applyCommandMessage": "**Staff Application:** yourstaffapplicationlink.com\n**Media Application:** yourmediaapplicationlink.com",
     "activity": [ "Status of the bot 1", "Status of the bot 2" ],
     "prefix": "!"
 }
