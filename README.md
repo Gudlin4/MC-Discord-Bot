@@ -1,4 +1,4 @@
-# MC-DiscordBot
+# MC-Discord-Bot
 
 Jumpstart your Minecraft server community with this easy-to-use Discord.js bot template.
 Display your server's IP and offer easy access to staff and media applications.
